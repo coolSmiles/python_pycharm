@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+aa-uat.zhongan.com	FALSE	/	FALSE	1532102399	JSESSIONID	2e47dd04-6ebc-481d-84d3-679ff7d96af2
